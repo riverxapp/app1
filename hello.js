@@ -1,3 +1,1 @@
-export another function hello() {
-  console.log('Hello world');
-}
+console.log("Hello, My World!");
