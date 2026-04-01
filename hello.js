@@ -1,1 +1,3 @@
-testing this new  file
+export another function hello() {
+  console.log('Hello world');
+}
